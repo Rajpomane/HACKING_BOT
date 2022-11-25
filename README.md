@@ -1,4 +1,10 @@
-<h1 align= center><b>⭐️ Rocks VC Userbot ⭐️</b></h1>
+# 𓄂🇪🅿🇰🔥🅚︎🅘︎🅝︎🅖︎⚔𝑿𝑫🚬
+
+<p align="center">
+  <img src="https://telegra.ph/file/bafe41175936b5ff85c40.jpg">
+</p>
+
+<h1 align= center><b></b></h1>
 <h3 align = center> Telegram Userbot To Play Audio And Video Song On VC Chat </h3>
 
 <p align="center">
@@ -55,7 +61,7 @@ thanks to the translators.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheTeamAlexa/Music-Userbot-V1)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajpomane/Music-Userbot-V1)
 
 ## ☁️ <a name="self_host"></a>Self Host
 
